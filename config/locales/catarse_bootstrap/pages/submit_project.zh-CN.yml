@@ -1,0 +1,43 @@
+en:
+  submit_project:
+    title: "提交您的项目到频道 %{channel}"
+    subtitle: "当您填写了下面的表格，您将得到一个项目草案页面。您可以添加回报，分享至朋友等，使信息更加丰富。下面你填写的信息并不是决定性的，但是记住，您的项目信息越一致，项目上线的速度也越快。"
+    important: "<strong>重要：</strong>频道 %{channel} 按照项目自身的设置来选择，这样的项目也可以被管理团队拒绝。"
+
+    permalink: "项目地址"
+    permalink_hint: "项目地址是您的项目的网页地址，尽量简单。不要用下划线，连字符和特殊字符。"
+
+    name: "项目名称"
+    name_hint: "尽量客观，更多说明放在关于部分。"
+
+    about: "关于您的项目。您将如何花这笔钱？"
+    about_hint: "告诉我们是什么激励着您提出了这个项目。透明地介绍您的项目，尽量迷人而又不失客观，感动大家的同时又让人充满期待！"
+
+    headline: "冲击线"
+    headline_hint: "用140字来简述您的项目，这会再在人们观看视频之前了解到您的项目， 尽量清楚明了，富有创造力:)"
+
+    category_id: "目录"
+    category_id_hint: "在您格式项目之前 a href='%{href}' target='_blank'>看看其他项目</a> (成功的) 来启迪您自己！"
+
+    goal: "金额"
+    goal_hint: "最大的一部分支持已经在靠近你了，基于此，你想想，动员你一半的关系网络。记得我们13%的服务费用，最终你筹得的款项要乘以0.87哦。"
+
+    online_days: "活动持续多久？"
+    online_days_hint: "最后，确定您的活动持续时间。再次强调，这是一个平衡，时间太长，人们可能会失去兴趣，时间太短，可能您达不到目标。"
+
+    video_url: "视频"
+    video_url_hint: "粘贴视频地址在这里。"
+
+    more_links: "列出项目相关的链接"
+    more_links_hint: "通过什么样的渠道来宣传您的项目，列出您的 facebook/twitter/blog/site/ 任何可以帮助您推广的连接方式。"
+
+    first_contributions: "列出起初的参与者"
+    first_contributions_hint: "为了达到筹款目标，鼓励您的亲近朋友们给你筹款是不可或缺的，列出前20位为您捐款的人员将极大的帮助到您。"
+
+    how_know: "您浏览过频道么？"
+    how_know_hint: "告诉我们您是如何发现频道的并且有何期待？"
+
+    accept_terms: "我已阅读并接受 %{link}."
+    terms: "使用条款"
+
+    submit: "保存草案"

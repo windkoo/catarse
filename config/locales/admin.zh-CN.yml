@@ -1,0 +1,109 @@
+en:
+  admin: &admin
+    confirm_dialog: '您确定？'
+    projects:
+      index:
+        by_state: '依据状态'
+        between_created_at: '创建在'
+        submit: '过滤'
+        send_to_trash: '删除'
+        send_to_draft: '发送至草案！'
+        reject: '拒绝！'
+        approve: '通过！'
+        order_asc: '目标升序'
+        order_desc: '目标降序'
+        order_created_at: '提交日期'
+        last_modification: '最后更新'
+    financials:
+      index:
+        submit: '过滤'
+        by_state: '依据状态'
+        by_progress: 依据进度 %
+    users:
+      index:
+        title: "参与者管理"
+        menu: 用户
+        credits: 积分
+        credits_view: "已计算的积分"
+        id: 编号
+        key: 关键字
+        submit: 搜索
+        has_credits_difference: "积分差异"
+        total_contributed: 已参与的
+        total_contributors: 参与者
+        total_contributions: 已贡献的
+        total_users: 用户
+        total_credits: 积分
+        total_credits_view: "已计算的积分"
+        user: 用户
+        value: 金额
+        provider: 供应商
+    contributions:
+      messages:
+        successful:
+          confirm: '参与已确认！'
+          pendent: '参与未确认！'
+          refund: '参与已退款！'
+          change_reward: '回报已变更！'
+          hide: '参与已隐藏！'
+          cancel: '参与已取消！'
+          push_to_trash: '参与已删除！'
+      index:
+        send_refund_request_contribution: '发送退款请求'
+        push_to_trash: '删除参与'
+        cancel: '取消参与'
+        refund_and_hide: '退款并隐藏'
+        contribution_info: '参与 %{key} 的信息'
+        payment_id: '支付编号'
+        payment_method: '支付方式'
+        payment_fee: '支付费用'
+        payment_choice: '支付选择'
+        payer_email: '付款者邮件'
+        user_email: '用户邮件'
+        pending_to_refund: '退款等待'
+        created_at: '创建于'
+        title: "参与管理"
+        menu: 参与
+        anonymous: 匿名？
+        confirmed: 已确认的？
+        credits: "使用积分？"
+        id: 编号
+        key: 关键字
+        no_contributions: "没有发现参与的项目"
+        project: 项目
+        refunded: 已退款？
+        requested_refund: "请求退款？"
+        reward: 回报
+        no_reward: "无回报"
+        submit: 搜索
+        total_contributed: 已参与的
+        total_contributors: 参与者
+        total_contributions: 已贡献的
+        total_users: 用户
+        user: 用户
+        value: 金额
+    statistics:
+      index:
+        menu: "统计"
+        title: "统计"
+        total_users: "用户"
+        total_contributions: "已贡献的"
+        total_contributors: "参与者"
+        total_contributed: "已参与的"
+        total_projects: "项目"
+        total_projects_success: "成功"
+        total_projects_online: "在线"
+      projects_by_week:
+        title: "项目周报"
+        current_period: "往后 8 周"
+        previous_period: "向前 8 周"
+        last_year: "去年"
+      contributions_by_week:
+        title: "已确认参与项目周报"
+        current_period: "往后 8 周"
+        previous_period: "向前 8 周"
+        last_year: "去年"
+
+  channels:
+    admin:
+      <<: *admin

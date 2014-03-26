@@ -1,0 +1,13 @@
+en:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              not_found: "邮件不在我们的系统中，请重试或者注册一个新账号吧。"
+              taken: "邮件已注册，请登陆。"
+              invalid: "无效电子邮件"
+            password:
+              too_short: "您的密码太短"
+              confirmation: "密码验证不一致"

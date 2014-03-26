@@ -1,0 +1,7 @@
+pt:
+  activerecord:
+    attributes:
+      channel_post:
+        title: '标题'
+        body: '内容'
+        visible: '发布（选择，如果你要发布这个消息）'

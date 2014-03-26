@@ -1,0 +1,21 @@
+en:
+  pages:
+    sign_up:
+      have_account_html: "已有账户？<strong>%{link}</strong>"
+      titles:
+        site: '注册'
+        header: '注册'
+      links:
+        login: "登入"
+      form:
+        labels:
+          show_password: '显示密码'
+          name: '名字'
+          password: '密码'
+          newsletter: '我要订阅邮件'
+        hint:
+          password_length: '至少 6 个字符。'
+        inputs:
+          submit: '注册'
+          facebook: '用 Facebook 账户注册'
+
