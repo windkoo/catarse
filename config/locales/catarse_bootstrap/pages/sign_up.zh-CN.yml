@@ -1,4 +1,4 @@
-en:
+zh-CN:
   pages:
     sign_up:
       have_account_html: "已有账户？<strong>%{link}</strong>"

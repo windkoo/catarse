@@ -1,4 +1,4 @@
-en:
+zh-CN:
   channels_subscribers:
     created: '您现在关注频道 %{channel}'
     deleted: '您不在关注频道 %{channel}'
